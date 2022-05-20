@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDBukalapak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02de8e55-c153-496e-a141-ded5b4841cf6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>563e724a-080b-4165-a210-cf57e3c33489</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'thesapnadao@gmail.com'</defaultValue>
+      <description></description>
+      <id>563e724a-080b-4165-a210-cf57e3c33489</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

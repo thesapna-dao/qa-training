@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SEA Games 2021 Susunan Pemain Indonesia V_04d0a6</name>
+   <tag></tag>
+   <elementGuidId>77b455a5-b27a-41ee-bea8-15e253a72f2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='_pt(this)'])[64]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>article.list-content__item.column-3 > div.media.media--image-radius > div.media__text > div.media__title > a.media__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c42e8e7a-6c6b-4f21-adfb-893d216c9c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dtr-evt</name>
+      <type>Main</type>
+      <value>box berita detikcom lainnya</value>
+      <webElementGuid>90187278-3272-49dd-8596-1c8a9aa697dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dtr-act</name>
+      <type>Main</type>
+      <value>artikel</value>
+      <webElementGuid>95d78b3a-a181-4ae5-a6c1-c2ae6d68c249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>_pt(this)</value>
+      <webElementGuid>b8542bd5-2e53-4bc2-bc92-831f7f2ad402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dtr-idx</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3bf3c9ca-6a85-429b-baff-7a2552173e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dtr-id</name>
+      <type>Main</type>
+      <value>6081423</value>
+      <webElementGuid>afc47443-9f71-4b24-92dd-c8a37d34fbe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dtr-ttl</name>
+      <type>Main</type>
+      <value>SEA Games 2021: Susunan Pemain Indonesia Vs Thailand</value>
+      <webElementGuid>d44ad0c3-423f-4c49-a5c7-230b02349c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sport.detik.com/raket/d-6081423/sea-games-2021-susunan-pemain-indonesia-vs-thailand?_ga=2.150948273.66005303.1652776495-166961517.1652776495</value>
+      <webElementGuid>438369b9-c309-44f5-aeb8-7f78649ca80e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>media__link</value>
+      <webElementGuid>a4945e41-44d3-43f8-b873-791b97f40637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            SEA Games 2021: Susunan Pemain Indonesia Vs Thailand                        </value>
+      <webElementGuid>d9c92479-39a6-4e01-a83d-7dd90a2d3ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bt_l&quot;)/article[@class=&quot;list-content__item column-3&quot;]/div[@class=&quot;media media--image-radius&quot;]/div[@class=&quot;media__text&quot;]/div[@class=&quot;media__title&quot;]/a[@class=&quot;media__link&quot;]</value>
+      <webElementGuid>28ebc507-d019-42cb-87b7-22e149bba796</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='_pt(this)'])[64]</value>
+      <webElementGuid>2921666e-eb16-41db-a799-fc843ddf24ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bt_l']/article/div/div[2]/div[2]/a</value>
+      <webElementGuid>2c568c7f-6a37-43a8-9a3f-a0b1972c8e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SEA Games 2021: Susunan Pemain Indonesia Vs Thailand')]</value>
+      <webElementGuid>c1d55c12-9401-4aec-8d70-de0c72127a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='detikSport'])[1]/following::a[1]</value>
+      <webElementGuid>2cafd154-6fbd-441f-9214-5cf0157398f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita detikcom Lainnya'])[1]/following::a[2]</value>
+      <webElementGuid>7a33b712-338e-4eab-b2e3-f121f363afec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='detikHot'])[1]/preceding::a[2]</value>
+      <webElementGuid>08c2c81e-65a8-4cf0-99cc-b95cea9b725c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dul Jaelani Pede Qodir Bisa Lebih Besar dari Dewa 19'])[1]/preceding::a[2]</value>
+      <webElementGuid>a4b5d58c-52d6-49a3-9151-ab8264828c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SEA Games 2021: Susunan Pemain Indonesia Vs Thailand']/parent::*</value>
+      <webElementGuid>d289aa77-578d-4561-a89d-f71ccbf5d50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sport.detik.com/raket/d-6081423/sea-games-2021-susunan-pemain-indonesia-vs-thailand?_ga=2.150948273.66005303.1652776495-166961517.1652776495')]</value>
+      <webElementGuid>aa100714-86ae-4086-a845-7f4486183fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/article/div/div[2]/div[2]/a</value>
+      <webElementGuid>d266416f-1799-4fe1-bf41-4f903acb4615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sport.detik.com/raket/d-6081423/sea-games-2021-susunan-pemain-indonesia-vs-thailand?_ga=2.150948273.66005303.1652776495-166961517.1652776495' and (text() = '
+                            SEA Games 2021: Susunan Pemain Indonesia Vs Thailand                        ' or . = '
+                            SEA Games 2021: Susunan Pemain Indonesia Vs Thailand                        ')]</value>
+      <webElementGuid>315bbb31-ee01-4617-ab41-b1b338b6e3ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
