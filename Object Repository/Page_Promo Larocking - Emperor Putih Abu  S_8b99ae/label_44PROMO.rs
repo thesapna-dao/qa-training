@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_44PROMO</name>
+   <tag></tag>
+   <elementGuidId>a043dfcb-ab9d-4ffa-bfcc-e952fadd2cc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpVariantContainer']/div[2]/div[2]/div/button/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.css-rtapky.e83okfj4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1f5cb32c-7fc2-4505-8fa0-76d2877f7ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-rtapky e83okfj4</value>
+      <webElementGuid>087c009a-8532-4ce3-8da0-bea1bd21e8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>44PROMO</value>
+      <webElementGuid>4e59428d-92da-4ce0-9fec-b4a2f10b2499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpVariantContainer&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[2]/div[@class=&quot;css-1x02ths e83okfj3&quot;]/button[@class=&quot;css-hdtg6a e83okfj2&quot;]/label[@class=&quot;css-rtapky e83okfj4&quot;]</value>
+      <webElementGuid>0c8a3237-f63b-45a5-9d28-0f80c918556a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpVariantContainer']/div[2]/div[2]/div/button/label</value>
+      <webElementGuid>9d7d8709-ce53-47b9-a79e-865b47bac309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ukuran:'])[1]/following::label[1]</value>
+      <webElementGuid>079fbf9d-1df4-4000-9a8d-e1e816d072da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROMO'])[1]/following::label[1]</value>
+      <webElementGuid>dca13a54-ffd2-4d46-9b3a-dfef1ae683c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROMO'])[3]/preceding::label[1]</value>
+      <webElementGuid>cfe9344f-d8f1-44e6-9e3f-d6478e43b762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>6c173be9-572a-4b47-80bb-1a47925039c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '44PROMO' or . = '44PROMO')]</value>
+      <webElementGuid>d6c61838-8096-4e11-9a48-c6f25978fe1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Larocking - Emperor Putih Abu  Sepatu S_7c95e7</name>
+   <tag></tag>
+   <elementGuidId>610706d6-0e8a-426e-96ca-2aff5f6e15b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[4]/div/div/div/div/div/div/div/div[2]/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-qa82pd > div.css-1c4umxf > div.pcv3__container.css-gfx8z3 > div.css-974ipl > a.pcv3__info-content.css-gwkf0u > div.css-1b6t4dn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed7d3d53-718d-4b09-b8e3-74624fb7e194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1b6t4dn</value>
+      <webElementGuid>90b2a0a8-8cd5-4ad5-bbb8-6f3d9158dc2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>spnSRPProdName</value>
+      <webElementGuid>a40fb641-53ad-4c32-b5df-d1184d6b4e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Larocking - Emperor Putih Abu | Sepatu Sneakers Running Gym Shoes</value>
+      <webElementGuid>afe7f80a-17b9-4e6c-881d-90f705cb0976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[4]/div[@class=&quot;css-jza1fo&quot;]/div[@class=&quot;css-12sieg3&quot;]/div[@class=&quot;css-y5gcsw&quot;]/div[@class=&quot;css-5fmc3z&quot;]/div[@class=&quot;css-qa82pd&quot;]/div[@class=&quot;css-1c4umxf&quot;]/div[@class=&quot;pcv3__container css-gfx8z3&quot;]/div[@class=&quot;css-974ipl&quot;]/a[@class=&quot;pcv3__info-content css-gwkf0u&quot;]/div[@class=&quot;css-1b6t4dn&quot;]</value>
+      <webElementGuid>4cd9b8ac-3eaa-4f0c-8785-35795923d390</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[4]/div/div/div/div/div/div/div/div[2]/a/div[2]</value>
+      <webElementGuid>e19fec77-8276-47d7-91ae-d3a10a6b319e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Men In Style'])[1]/following::div[1]</value>
+      <webElementGuid>85c6f7a5-1b7f-43a1-aec3-10da901101e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad'])[1]/following::div[3]</value>
+      <webElementGuid>54ab06cb-f712-475f-851d-0ef86f8e57b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp99.900'])[1]/preceding::div[1]</value>
+      <webElementGuid>857bc1a7-3431-4bed-baf9-d5f3024a1ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp199.900'])[1]/preceding::div[3]</value>
+      <webElementGuid>b2408828-2f05-4a33-95e3-93fb210c0d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Larocking - Emperor Putih Abu | Sepatu Sneakers Running Gym Shoes']/parent::*</value>
+      <webElementGuid>31c70584-4919-4c45-bb8c-87f634351763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div/div/div[2]/a/div[2]</value>
+      <webElementGuid>957cc488-94e4-492b-a730-ec64b9325d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Larocking - Emperor Putih Abu | Sepatu Sneakers Running Gym Shoes' or . = 'Larocking - Emperor Putih Abu | Sepatu Sneakers Running Gym Shoes')]</value>
+      <webElementGuid>c9be51d3-4828-4a9b-8103-0cf000540a5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Ulasan(1152)Larocking - Emperor Putih Ab_2e7356</name>
+   <tag></tag>
+   <elementGuidId>663b30ce-a3dc-4497-a486-6f999e9387eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdp_comp-review']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.css-ddjk3l</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5fe98237-a609-40f2-b7a8-52373d60d60a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>sumTotalReview</value>
+      <webElementGuid>b6810afe-8d93-4a98-af6e-cf6050481f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-ddjk3l</value>
+      <webElementGuid>3d94cea9-f5ba-46a7-b8fd-32abddf12728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ulasan(1152)Larocking - Emperor Putih Abu | Sepatu Sneakers Running Gym Shoes - Putih Abu, 44</value>
+      <webElementGuid>916ace09-331c-4547-b300-56d547b27caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdp_comp-review&quot;)/h2[@class=&quot;css-ddjk3l&quot;]</value>
+      <webElementGuid>ee9f20b3-4371-4e74-8fdb-1ea64c6f354a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdp_comp-review']/h2</value>
+      <webElementGuid>e9cc473c-e012-4c83-8bcf-1b629a79394b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporkan'])[1]/following::h2[1]</value>
+      <webElementGuid>0237ad6c-7fbd-4e12-af3a-bde6e08dc2f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada masalah dengan produk ini?'])[1]/following::h2[1]</value>
+      <webElementGuid>5026bcb2-6a4c-44bd-8246-95aef077074d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/5'])[1]/preceding::h2[1]</value>
+      <webElementGuid>9de66a15-dd45-4a5f-9729-a1eef44981eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/h2</value>
+      <webElementGuid>0982273d-0099-4e68-864a-5719e98ceb8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Ulasan(1152)Larocking - Emperor Putih Abu | Sepatu Sneakers Running Gym Shoes - Putih Abu, 44' or . = 'Ulasan(1152)Larocking - Emperor Putih Abu | Sepatu Sneakers Running Gym Shoes - Putih Abu, 44')]</value>
+      <webElementGuid>3ce0137d-0df7-457c-8f89-615439c31f50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

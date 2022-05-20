@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_44</name>
+   <tag></tag>
+   <elementGuidId>15c3608f-994a-4680-81cf-8e6111d6e623</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpVariantContainer']/div[2]/div[2]/div/button/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.css-rtapky.e83okfj4 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>44902168-5bb9-473a-9310-0adfd50e60b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>44</value>
+      <webElementGuid>2f90b361-ff0d-4196-9b01-9699903e88f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpVariantContainer&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[2]/div[@class=&quot;css-xhcs9-opened e83okfj3&quot;]/button[@class=&quot;css-hdtg6a e83okfj2&quot;]/label[@class=&quot;css-rtapky e83okfj4&quot;]/span[1]</value>
+      <webElementGuid>e20204c6-987c-41dd-96ef-69d69383df34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpVariantContainer']/div[2]/div[2]/div/button/label/span</value>
+      <webElementGuid>bdfade7c-2f6b-4d34-a15a-8a0e7289fcd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ukuran:'])[1]/following::span[1]</value>
+      <webElementGuid>e8ff1e03-d619-4e22-8fa1-5ce248a7a34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROMO'])[1]/following::span[2]</value>
+      <webElementGuid>9ad9a743-f4f3-4620-be1a-4c9a8c7300e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROMO'])[2]/preceding::span[1]</value>
+      <webElementGuid>9616cf2c-abff-4a73-aef4-835d8f791bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROMO'])[3]/preceding::span[6]</value>
+      <webElementGuid>673c8019-f2e9-443e-a2ad-f23aa465e7c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>8f303758-65ea-4351-8aa1-217ada2e37ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '44' or . = '44')]</value>
+      <webElementGuid>6d9f0bc9-d8c5-4b7d-8854-ccbb47ce6b09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
